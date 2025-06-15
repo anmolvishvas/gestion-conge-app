@@ -1,4 +1,4 @@
-# Gestion des Congés - SYDEV
+# Gestion des Congés
 
 ## Prérequis
 
