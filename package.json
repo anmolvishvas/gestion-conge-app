@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@hotwired/stimulus": "^3.2.2",
+    "@symfony/stimulus-bridge": "^4.0.1",
+    "@symfony/ux-turbo": "^2.26.1",
+    "@types/lodash": "^4.17.17",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@symfony/webpack-encore": "^5.1.0"
+  }
+}
