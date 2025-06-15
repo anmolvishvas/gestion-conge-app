@@ -88,7 +88,7 @@ npm run dev
 ## Structure du Projet
 
 ```
-gestion-conge-sydev/
+gestion-conge/
 ├── backend/          # Code Symfony
 │   ├── src/
 │   ├── config/
